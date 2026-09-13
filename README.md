@@ -5,7 +5,7 @@ Bộ mã nguồn hoàn chỉnh gồm 2 ứng dụng desktop bằng **Python + Py
 ## 1. Cấu trúc
 
 ```text
-ChuDe3_XuLyAnh_PySide6/
+ChuDe3_XuLyAnh/
 ├── common/
 │   ├── image_utils.py
 │   └── widgets.py
