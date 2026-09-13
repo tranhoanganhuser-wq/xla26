@@ -17,7 +17,6 @@ ChuDe3_XuLyAnh_PySide6/
 │   ├── main.py
 │   ├── document_processing.py
 │   └── pdf_export.py
-├── tests/
 ├── requirements.txt
 └── README.md
 ```
